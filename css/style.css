@@ -45,19 +45,20 @@ img{
 
 .header-right ul{
     text-align: right;
+    margin-bottom: 0px;
     }
 .header-right ul li{
     display: inline-block;
     margin-left: -4px;
 }
-.header-right ul li a{
+.header-right ul li a {
     font-size: 15px;
     color: white;
     text-transform: uppercase;
-    padding: 0px 30px;
-    display: block;
+    padding: 0px 32px;
+    display: inline-block;
     text-decoration: none;
-    line-height: 71px;
+    line-height: 81px;
     border-right: 1px solid white;
     transition: .5s;
 }
