@@ -160,6 +160,9 @@ img{
     margin-right: 10px;
     margin-bottom: 10px;
 }
+.blog-left-content {
+    width: 100%;
+}
 .blog-left p{
     text-align: justify;
 }
